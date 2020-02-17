@@ -1,0 +1,14 @@
+{
+  "name": "odbc-test",
+  "version": "1.0.0",
+  "description": "ODBC Test Connection to OpenEdge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laksiri Fernando",
+  "license": "ISC",
+  "dependencies": {
+    "odbc": "^2.2.2"
+  }
+}
